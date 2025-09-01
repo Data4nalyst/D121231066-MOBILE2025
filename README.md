@@ -1,5 +1,5 @@
-# D121231066-MOBILE2025-W1
-Tugas Pertama Pemrograma Mobile C
+# D121231066-MOBILE2025
+Tugas Pemrograma Mobile C
 
 Nama : Muh. Al Haritsa
 
